@@ -7,4 +7,6 @@ Python:
 
 Testing use `pytest day01.py` to test it
 
+For day14 you will need pillow as well (image generation)
+
 Formatted using black
